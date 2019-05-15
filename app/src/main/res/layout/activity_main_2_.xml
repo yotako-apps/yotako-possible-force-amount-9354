@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <com.yotako.customView.YotakoConstraintLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_guidelines_top97ec9b81_b053_470b_a98c_21fcdd8516b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0344" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_guidelines_start97ec9b81_b053_470b_a98c_21fcdd8516b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.064" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_guidelines_bottom97ec9b81_b053_470b_a98c_21fcdd8516b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.25478" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_guidelines_end97ec9b81_b053_470b_a98c_21fcdd8516b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9706600000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_0_97ec9b81_b053_470b_a98c_21fcdd8516b2"
+app:originalWidth="340"
+app:originalHeight="147"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_0_guidelines_start97ec9b81_b053_470b_a98c_21fcdd8516b2"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_0_guidelines_top97ec9b81_b053_470b_a98c_21fcdd8516b2"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_0_guidelines_end97ec9b81_b053_470b_a98c_21fcdd8516b2"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_0_guidelines_bottom97ec9b81_b053_470b_a98c_21fcdd8516b2">
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_top7df8d9a1_0081_46df_8639_840bdd58d6c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_start7df8d9a1_0081_46df_8639_840bdd58d6c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_bottom7df8d9a1_0081_46df_8639_840bdd58d6c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_end7df8d9a1_0081_46df_8639_840bdd58d6c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.47058" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_0_container_0_7df8d9a1_0081_46df_8639_840bdd58d6c7"
+app:borderColor="#707070"
+app:originalWidth="160"
+app:originalHeight="147"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_start7df8d9a1_0081_46df_8639_840bdd58d6c7"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_top7df8d9a1_0081_46df_8639_840bdd58d6c7"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_end7df8d9a1_0081_46df_8639_840bdd58d6c7"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_0_container_0_guidelines_bottom7df8d9a1_0081_46df_8639_840bdd58d6c7">
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_top748c0700_10c2_42d1_9c26_29acfa81d5c6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_start748c0700_10c2_42d1_9c26_29acfa81d5c6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5294" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_bottom748c0700_10c2_42d1_9c26_29acfa81d5c6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.91156" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_end748c0700_10c2_42d1_9c26_29acfa81d5c6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999799999999999" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/iphone_6_7_8_2_row_0_text_0"
+android:fontFamily="helvetica neue"
+
+android:text="Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+
+" 
+android:textColor="#707070"
+android:textSize="11sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="160"
+app:originalHeight="134"
+android:gravity="left"
+android:layout_width="0dp"
+android:layout_height="160.79999999999998dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_start748c0700_10c2_42d1_9c26_29acfa81d5c6"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_top748c0700_10c2_42d1_9c26_29acfa81d5c6"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_end748c0700_10c2_42d1_9c26_29acfa81d5c6"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_0_text_0_guidelines_bottom748c0700_10c2_42d1_9c26_29acfa81d5c6" />
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_guidelines_tope5b20591_d8f4_4246_86d5_51949fc40774"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2848" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_guidelines_starte5b20591_d8f4_4246_86d5_51949fc40774"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.064" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_guidelines_bottome5b20591_d8f4_4246_86d5_51949fc40774"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.50518" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_guidelines_ende5b20591_d8f4_4246_86d5_51949fc40774"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9706600000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_1_e5b20591_d8f4_4246_86d5_51949fc40774"
+app:originalWidth="340"
+app:originalHeight="147"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_1_guidelines_starte5b20591_d8f4_4246_86d5_51949fc40774"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_1_guidelines_tope5b20591_d8f4_4246_86d5_51949fc40774"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_1_guidelines_ende5b20591_d8f4_4246_86d5_51949fc40774"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_1_guidelines_bottome5b20591_d8f4_4246_86d5_51949fc40774">
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_top8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_start8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_bottom8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_end8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.47058" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_1_container_1_8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+app:borderColor="#707070"
+app:originalWidth="160"
+app:originalHeight="147"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_start8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_top8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_end8cd11902_b5cb_41af_8d8a_c891d6da03e9"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_1_container_1_guidelines_bottom8cd11902_b5cb_41af_8d8a_c891d6da03e9">
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_top1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_start1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5294" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_bottom1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.91156" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_end1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999799999999999" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/iphone_6_7_8_2_row_1_text_1"
+android:fontFamily="helvetica neue"
+
+android:text="Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+
+" 
+android:textColor="#707070"
+android:textSize="11sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="160"
+app:originalHeight="134"
+android:gravity="left"
+android:layout_width="0dp"
+android:layout_height="160.79999999999998dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_start1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_top1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_end1db5aec5_9912_46ca_a3e4_c04fbcf26f79"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_1_text_1_guidelines_bottom1db5aec5_9912_46ca_a3e4_c04fbcf26f79" />
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_guidelines_topf88130b9_3fde_4442_92ae_df5bea618c8f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5352" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_guidelines_startf88130b9_3fde_4442_92ae_df5bea618c8f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.064" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_guidelines_bottomf88130b9_3fde_4442_92ae_df5bea618c8f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.75558" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_guidelines_endf88130b9_3fde_4442_92ae_df5bea618c8f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9706600000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_2_f88130b9_3fde_4442_92ae_df5bea618c8f"
+app:originalWidth="340"
+app:originalHeight="147"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_2_guidelines_startf88130b9_3fde_4442_92ae_df5bea618c8f"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_2_guidelines_topf88130b9_3fde_4442_92ae_df5bea618c8f"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_2_guidelines_endf88130b9_3fde_4442_92ae_df5bea618c8f"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_2_guidelines_bottomf88130b9_3fde_4442_92ae_df5bea618c8f">
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_topc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_startc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_bottomc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_endc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.47058" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_2_container_2_c4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+app:borderColor="#707070"
+app:originalWidth="160"
+app:originalHeight="147"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_startc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_topc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_endc4c72e72_99ea_45b0_af7e_1f0b526e5bd0"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_2_container_2_guidelines_bottomc4c72e72_99ea_45b0_af7e_1f0b526e5bd0">
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_top9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_start9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5294" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_bottom9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.91156" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_end9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999799999999999" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/iphone_6_7_8_2_row_2_text_2"
+android:fontFamily="helvetica neue"
+
+android:text="Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+
+" 
+android:textColor="#707070"
+android:textSize="11sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="160"
+app:originalHeight="134"
+android:gravity="left"
+android:layout_width="0dp"
+android:layout_height="160.79999999999998dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_start9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_top9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_end9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_2_text_2_guidelines_bottom9fedc2aa_cd7a_489e_a80f_8a1a31ca45f9" />
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_guidelines_top9063486a_0a84_46fb_80b2_d1c51722b29c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7856000000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_guidelines_start9063486a_0a84_46fb_80b2_d1c51722b29c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.064" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_guidelines_bottom9063486a_0a84_46fb_80b2_d1c51722b29c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.00598" />
+            <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_guidelines_end9063486a_0a84_46fb_80b2_d1c51722b29c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9706600000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_3_9063486a_0a84_46fb_80b2_d1c51722b29c"
+app:originalWidth="340"
+app:originalHeight="147"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_3_guidelines_start9063486a_0a84_46fb_80b2_d1c51722b29c"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_3_guidelines_top9063486a_0a84_46fb_80b2_d1c51722b29c"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_3_guidelines_end9063486a_0a84_46fb_80b2_d1c51722b29c"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_3_guidelines_bottom9063486a_0a84_46fb_80b2_d1c51722b29c">
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_top88084d68_b90e_468c_9c96_552e1e5af570"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_start88084d68_b90e_468c_9c96_552e1e5af570"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_bottom88084d68_b90e_468c_9c96_552e1e5af570"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_end88084d68_b90e_468c_9c96_552e1e5af570"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.47058" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/iphone_6_7_8_2_row_3_container_3_88084d68_b90e_468c_9c96_552e1e5af570"
+app:borderColor="#707070"
+app:originalWidth="160"
+app:originalHeight="147"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_start88084d68_b90e_468c_9c96_552e1e5af570"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_top88084d68_b90e_468c_9c96_552e1e5af570"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_end88084d68_b90e_468c_9c96_552e1e5af570"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_3_container_3_guidelines_bottom88084d68_b90e_468c_9c96_552e1e5af570">
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_top0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_start0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5294" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_bottom0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.91156" />
+                <android.support.constraint.Guideline
+android:id="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_end0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999799999999999" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/iphone_6_7_8_2_row_3_text_3"
+android:fontFamily="helvetica neue"
+
+android:text="Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+
+" 
+android:textColor="#707070"
+android:textSize="11sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="160"
+app:originalHeight="134"
+android:gravity="left"
+android:layout_width="0dp"
+android:layout_height="160.79999999999998dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_start0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+app:layout_constraintTop_toTopOf="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_top0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+app:layout_constraintEnd_toEndOf="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_end0635a075_c0d1_476b_b0c8_de7d75f87fa4"
+app:layout_constraintBottom_toBottomOf="@+id/iphone_6_7_8_2_row_3_text_3_guidelines_bottom0635a075_c0d1_476b_b0c8_de7d75f87fa4" />
+            </com.yotako.customView.YotakoConstraintLayout>
+        </com.yotako.customView.YotakoConstraintLayout>
+    </LinearLayout>
